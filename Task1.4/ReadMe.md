@@ -11,5 +11,5 @@ In this, Canny Edge Detection function has been used to detect edges. This has b
         
    (c) If minVal <= value <= maxVal  ->  If this pixel is directly connected to already considered edge, then it is considered as an                                                edge, otherwise discarded.
         
-        
+## Note
 In this, two trackbars have been implemented in order to adjust minVal and maxVal which are minimum and maximum value of thresholding. So see, implementation, you can refer to GIF.
