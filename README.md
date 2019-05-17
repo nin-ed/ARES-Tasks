@@ -16,4 +16,4 @@
 
 
 ## NOTE
-All tasks has an included docx file which is the output to the code. One GIF has also been included in Task 1.4.
+All tasks has an included docx file which is the Output/s to the code. One GIF has also been included in Task 1.4.
