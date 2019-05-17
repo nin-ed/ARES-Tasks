@@ -1,1 +1,1 @@
-In this, an edge detecting filter(Sobel filter) has been applied as a mask which is applied vertically with kernel size as 5 (kernel of 5x5).
+In this, an edge detecting filter(Sobel filter) has been applied as a mask which is applied vertically with kernel size as 5 (kernel of 5x5). Also, image is taken of type cv_8U which is unsigned 8 bit/pixel images.
